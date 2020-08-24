@@ -1,7 +1,5 @@
 # ReactJS APP practice
 
-[link-netlify-preview](https://optimistic-jackson-2540db.netlify.app)
-
 ### Simple React App
 
 ## Task Description
